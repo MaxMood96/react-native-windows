@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "connect": "^3.6.5",
-    "detox": "16.7.2",
+    "detox": "17.8.4",
     "ws": "^6.1.4"
   }
 }
