@@ -32,9 +32,9 @@
   },
   "devDependencies": {
     "beachball": "^1.32.0",
-    "husky": "^4.2.5",
+    "husky": "^5.0.0",
     "unbroken": "1.0.27",
-    "lage": "^0.24.0"
+    "lage": "^2.0.0"
   },
   "resolutions": {
     "eslint-plugin-react-hooks": "4.0.7",
