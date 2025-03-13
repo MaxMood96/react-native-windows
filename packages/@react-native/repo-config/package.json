@@ -9,7 +9,7 @@
     "url": "git@github.com:facebook/react-native.git"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.26.10",
     "@babel/generator": "^7.5.0",
     "@react-native-community/eslint-plugin": "*",
     "@reactions/component": "^2.0.2",
@@ -18,7 +18,7 @@
     "clang-format": "^1.2.4",
     "connect": "^3.6.5",
     "coveralls": "^3.0.2",
-    "detox": "16.7.2",
+    "detox": "20.34.5",
     "eslint": "7.12.0",
     "eslint-config-fb-strict": "^24.9.0",
     "eslint-config-fbjs": "2.1.0",
@@ -42,7 +42,7 @@
     "react": "17.0.2",
     "react-shallow-renderer": "16.14.1",
     "react-test-renderer": "17.0.2",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.9.0",
     "signedsource": "^1.0.0",
     "ws": "^6.1.4",
     "yargs": "^15.3.1"
